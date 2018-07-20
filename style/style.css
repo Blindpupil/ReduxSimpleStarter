@@ -1,0 +1,27 @@
+/* Search Bar */
+.search-bar {
+    margin: 1.2rem;
+    text-align: center;
+}
+.search-bar input {
+    width: 75%;
+}
+
+/* Video */
+.video-item img {
+    max-width: 64px;
+}
+.video-detail .details {
+    margin-top: 0.8rem;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+/* Video Items */
+.list-group-item {
+    cursor: pointer;
+}
+.list-group-item:hover {
+    background-color: #eee;
+}
