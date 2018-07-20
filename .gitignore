@@ -3,6 +3,8 @@ bundle.js
 npm-debug.log
 .DS_Store
 
-# IntelliJ
-*.iml
+# IDE
 /.idea
+
+# Priavte
+/config/keys.js
